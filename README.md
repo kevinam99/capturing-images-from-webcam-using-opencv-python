@@ -1,5 +1,5 @@
 # Capturing Images from Webcam Using OpenCV Python
-Capture an image from the webcam of your system and save it to your machine.
+Capture an image by accessing the webcam of your system and save it to your machine.
 
 # Softwares and packages required:
 1. Python, v3.6.7
