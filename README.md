@@ -6,7 +6,7 @@ Capture an image from the webcam of your system and save it to your machine.
 2. Matplotlib, v3.0.2 (to view the captured images or images that have been modified.)
 3. OpenCV, v3.4.4
 
-# Please read the full document.
+ Please read the full document.
 
 # How to use:
 1. Run the file webcam-capture-v1.01.py by running the command  ``` python3 webcam-capture-v1.01.py ```
