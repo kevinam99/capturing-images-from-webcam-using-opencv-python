@@ -9,7 +9,7 @@ Capture an image from the webcam of your system and save it to your machine.
 # Please read the full document.
 
 # How to use:
-1. Run the file webcam-capture-2.py by running the command "python3 webcam-capture-2.py"
+1. Run the file webcam-capture-v1.01.py by running the command  ``` python3 webcam-capture-v1.01.py ```
 2. The webcam will start running. 
 3. Bring the picture that you want to save in the webcam frame.
 4. Once the object is in the right frame, press the key 's' to save a picture.
