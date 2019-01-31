@@ -4,7 +4,7 @@ Capture an image by accessing the webcam of your system and save it to your mach
 # Softwares and packages required:
 1. Python, v3.6.7
 2. Matplotlib, v3.0.2 (to view the captured images or images that have been modified. Not required for Windows machines.) ```pip3 install matplotlib```
-3. OpenCV, v3.4.4 ```sudo apt install opencv-python3```
+3. OpenCV, v3.4.4 ```sudo apt install python3-opencv```
 
  <b> Please read the full document. </b>
 
