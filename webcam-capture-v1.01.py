@@ -13,7 +13,7 @@ while True:
         cv2.imwrite(filename='saved_img.jpg', img=frame)
         webcam.release()
         img_new = cv2.imread('saved_img.jpg', cv2.IMREAD_GRAYSCALE)
-        img_new = cv2.imshow("Captured Image", img_new)
+        cv2.imshow("Captured Image", img_new)
         cv2.waitKey(1650)
         cv2.destroyAllWindows()
         print("Processing image...")
