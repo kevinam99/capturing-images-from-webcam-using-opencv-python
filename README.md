@@ -1,4 +1,8 @@
 # Capturing Images from Webcam Using OpenCV Python
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/kevin_codes?style=social)](https://twitter.com/kevin_codes)
+![Star this repository](https://img.shields.io/github/stars/kevinam99/capturing-images-from-webcam-using-opencv-python?style=social)
+
+
 Capture an image by accessing the webcam of your system and save it to your machine.
 
 # Softwares and packages required:
