@@ -1,5 +1,5 @@
 # Capturing Images from Webcam Using OpenCV Python
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/kevin_codes?style=social)](https://twitter.com/kevin_codes)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/kevin_codes?style=social)](https://twitter.com/thiskevinguy)
 ![Star this repository](https://img.shields.io/github/stars/kevinam99/capturing-images-from-webcam-using-opencv-python?style=social)
 
 
